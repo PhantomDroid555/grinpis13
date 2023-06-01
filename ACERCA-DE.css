@@ -1,0 +1,237 @@
+ .u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 1455px;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+
+.u-section-1 .u-layout-cell-1 {
+  min-height: 577px;
+  text-transform: uppercase;
+  line-height: 0.8;
+  margin: 0;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 21px 120px;
+}
+
+.u-section-1 .u-text-1 {
+  background-image: none;
+  margin: 91px 0 0;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-1 .u-text-2 {
+  line-height: 1.8;
+  font-size: 1.125rem;
+  text-transform: none;
+  margin: 52px 0 0;
+}
+
+.u-section-1 .u-btn-2 {
+  background-image: none;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  font-size: 1.5rem;
+  text-align: center;
+  font-weight: 700;
+  margin: 38px auto 0;
+  padding: 18px 44px 19px;
+}
+
+.u-section-1 .u-layout-cell-2 {
+  min-height: 728px;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 100px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  text-transform: none;
+  line-height: 1.6;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 0;
+}
+
+.u-section-1 .u-shape-1 {
+  width: 246px;
+  height: 246px;
+  --animation-custom_in-translate_x: 100px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  margin: 76px 175px 0 auto;
+}
+
+.u-section-1 .u-image-1 {
+  width: 651px;
+  height: 651px;
+  background-image: url("https://assets.nicepagecdn.com/3a1e9eb5/4257974/images/hombres-negocios-asiaticos-mujeres-negocios-que-reunen-intercambiar-ideas-sobre-aplicacion-planificacion-diseno-web-creativo-desarrollar-diseno-plantilla-proyectos-telefonos-moviles-que-trabajan-juntos-oficina-peque.jpg");
+  background-position: 50% 50%;
+  --animation-custom_in-translate_x: 50px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 180deg;
+  --animation-custom_in-scale: 0.3;
+  margin: -283px auto 0 197px;
+}
+
+.u-section-1 .u-shape-2 {
+  width: 168px;
+  height: 168px;
+  --animation-custom_in-translate_x: -300px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  margin: -168px auto 0 174px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1226px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 476px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 60px;
+    padding-right: 60px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 753px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    margin-left: 607px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-left: 110px;
+  }
+
+  .u-section-1 .u-shape-2 {
+    margin-left: 87px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1444px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-top: 55px;
+    margin-bottom: 55px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-right: 30px;
+    padding-left: 30px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 763px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    margin-left: 440px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 596px;
+    height: 596px;
+    margin-top: -226px;
+    margin-left: 35px;
+  }
+
+  .u-section-1 .u-shape-2 {
+    margin-left: 53px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 595px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 673px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    width: 194px;
+    height: 194px;
+    margin-right: 0;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 493px;
+    height: 493px;
+    margin-top: -166px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-shape-2 {
+    width: 150px;
+    height: 150px;
+    margin-top: -127px;
+    margin-left: 32px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 467px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 436px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    width: 154px;
+    height: 154px;
+    margin-right: 20px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 300px;
+    height: 300px;
+    margin-top: -118px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-shape-2 {
+    width: 97px;
+    height: 97px;
+    margin-top: -67px;
+    margin-left: 20px;
+  }
+}
